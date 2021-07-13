@@ -15,9 +15,9 @@
 
 <br>
 >Bold:
-*Bold* <br>
+**Bold** <br>
 <br>
->Italicized: **italicized** <br>
+>Italicized: *italicized*<br>
 <br>
 
 > Headings <br>
