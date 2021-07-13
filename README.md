@@ -17,7 +17,7 @@
 >Bold:
 *Bold* <br>
 <br>
->Italicized: _italicized_ <br>
+>Italicized: **italicized** <br>
 <br>
 
 > Headings <br>
